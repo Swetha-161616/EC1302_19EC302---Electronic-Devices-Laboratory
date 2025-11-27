@@ -24,14 +24,18 @@ LT-Spice
 8.Click on the run option  simulation window opens  place the probe  output graph is obtained.
 
 ## CIRCUIT DIAGRAM:
-<img width="1265" height="582" alt="image" src="https://github.com/user-attachments/assets/6935e1a8-0aba-43a1-850d-ef2ab623315f" />
-<img width="1268" height="557" alt="image" src="https://github.com/user-attachments/assets/4dc90871-0a18-486e-934e-9ec1afcc2b36" />
+<img width="1288" height="307" alt="image" src="https://github.com/user-attachments/assets/9b5d3d1d-dca3-4c7a-a3a4-5c3594fe66c6" />
+<img width="1250" height="313" alt="image" src="https://github.com/user-attachments/assets/77451143-721c-4930-a854-2c2dec66889c" />
+
 
 ## OUTPUT GRAPH:
-<img width="1253" height="612" alt="image" src="https://github.com/user-attachments/assets/1d54a9ae-fbb6-4ab6-906c-9e853bc3a927" />
-<img width="1267" height="637" alt="image" src="https://github.com/user-attachments/assets/5bf83c97-f77d-4a1e-817c-003161907423" />
-<img width="1036" height="950" alt="image" src="https://github.com/user-attachments/assets/0ebf0fc9-9472-4001-9914-1a9d40101fc6" />
-<img width="1677" height="832" alt="image" src="https://github.com/user-attachments/assets/7f1ca138-abdd-4647-88b4-1cfa8db72df0" />
+<img width="1265" height="631" alt="image" src="https://github.com/user-attachments/assets/e76a8bf6-8112-4610-a116-f118b42c0583" />
+<img width="1272" height="713" alt="image" src="https://github.com/user-attachments/assets/93baa40a-eddb-4b32-ba90-3b4450355b06" />
+<img width="1626" height="883" alt="image" src="https://github.com/user-attachments/assets/a2208570-e921-4b42-bea5-cd7934999815" />
+<img width="1642" height="868" alt="image" src="https://github.com/user-attachments/assets/be98a62b-895e-4f68-870c-89b44a2567c6" />
+
+
+
 
 ## RESULT:
 Thus the drain and transfer characteristics of N-channel JFET circuit using LT-spice is simulated and verified. 
