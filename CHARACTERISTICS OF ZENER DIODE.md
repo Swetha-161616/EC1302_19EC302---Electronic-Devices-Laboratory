@@ -15,10 +15,13 @@
 The diodes, which are designed to operate in the breakdown region, are called the Zener diode. The other name is AVALANCHE diode. There are two types of breakdown in these diodes they are Avalanche and Zener breakdown. In avalanche breakdown the, conduction in reverse bias is due to avalanche multiplication of charge carrier. In Zener diode is breakdown is due to direct rupture of covalent bonds because of strong electric field. The actual intensity of the electric field strength that produces Zener breakdown voltage. Avalanche breakdowns will have higher breakdown voltages from several volts to several hundred volts.
 ## CIRCUIT DIAGRAM: 
 ## FORWARD BIAS:
+![WhatsApp Image 2025-11-27 at 17 58 49_5812c280](https://github.com/user-attachments/assets/70b92e96-c41c-4929-8456-18daa3216099)
 
 ## REVERSE BIAS:
+![WhatsApp Image 2025-11-27 at 17 58 49_b2b3e15b](https://github.com/user-attachments/assets/abf6ad53-1c96-4471-b3c5-1b7149011d26)
 
 ## MODEL GRAPH:
+![WhatsApp Image 2025-11-27 at 17 58 50_f7d4e7e2](https://github.com/user-attachments/assets/1da44b38-649a-45fb-b3d8-22334bc1bd8a)
 
 ## PROCEDURE:  
 ## FORWARD BIAS 
@@ -44,10 +47,13 @@ The diodes, which are designed to operate in the breakdown region, are called th
 **Reverse Resistance**  **R<sub>R</sub> = ΔV<sub>R</sub> / ΔI<sub>R</sub> (Ω)** 
 
 ## TABULATION:
+![WhatsApp Image 2025-11-27 at 17 58 50_23fce5b0](https://github.com/user-attachments/assets/74e32fbf-4cc5-4d54-8532-59a452b4ee72)
 
 ## CALCULATIONS:
+![WhatsApp Image 2025-11-27 at 17 58 48_1ab43031](https://github.com/user-attachments/assets/edf982c9-ece8-42ce-8f21-a1dbd4581f78)
 
 ## GRAPH:
+![WhatsApp Image 2025-11-27 at 17 58 48_75e3714f](https://github.com/user-attachments/assets/0c03e8b1-94b2-430b-86b4-560f96e5a690)
 
  ## RESULT:
  Thus the Zener diode characteristics were studied.
