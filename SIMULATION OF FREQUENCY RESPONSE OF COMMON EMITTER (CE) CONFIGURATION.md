@@ -17,7 +17,7 @@ LT-Spice
 
 5.Right click on the components and modify the values of the components.
 
-6.Save the file by giving file name.
+6.Save the file by  giving file name.
 
 7.Click on the run option  click advanced open  select AC analysis  enter the amplitude, time delay, stop time value.
 
