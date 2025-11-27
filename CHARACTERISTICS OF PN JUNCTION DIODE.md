@@ -17,10 +17,13 @@ A diode is a PN junction formed by a layer of P type and layer of N type Semicon
 
 ## CIRCUIT DIAGRAM: 
 ## FORWARD BIAS:
+![WhatsApp Image 2025-11-27 at 17 45 55_111bdcc4](https://github.com/user-attachments/assets/0b81ec99-3ace-4339-b9b2-48c569d69332)
 
 ## REVERSE BIAS:
+![WhatsApp Image 2025-11-27 at 17 45 55_c061cc47](https://github.com/user-attachments/assets/d1de98f8-9724-4cc1-bce6-9df642c38b54)
 
 ## MODEL GRAPH:
+![WhatsApp Image 2025-11-27 at 17 45 56_184b4527](https://github.com/user-attachments/assets/53ba71fb-40f5-44a3-b9aa-5f7a05e07252)
 
 ## PROCEDURE:  
 ## FORWARD BIAS 
@@ -48,12 +51,15 @@ A diode is a PN junction formed by a layer of P type and layer of N type Semicon
 **Reverse Resistance**  **R<sub>R</sub> = ΔV<sub>R</sub> / ΔI<sub>R</sub> (Ω)** 
 
 ## TABULATION:
+![WhatsApp Image 2025-11-27 at 17 45 56_06310098](https://github.com/user-attachments/assets/c9b790c7-1a25-42b6-8c12-e73e867c1c49)
 
 ## CALCULATIONS:
+![WhatsApp Image 2025-11-27 at 17 45 57_d3d8c9c8](https://github.com/user-attachments/assets/bc5ef5bf-8b2a-456f-9951-1a7788ec24ea)
 
 ## GRAPH:
+![WhatsApp Image 2025-11-27 at 17 45 56_1b9b4ec4](https://github.com/user-attachments/assets/b05217b0-43dc-4c1e-bbff-36e95176a62a)
 
  ## RESULTS:
- 1. Forward resistance of PN diode     = --------------------
- 2. Reverse resistance   of PN diode   = --------------------
- 3. Cut in Voltage of PN diode         = -------------------
+ 1. Forward resistance of PN diode     = 20 ohm
+ 2. Reverse resistance   of PN diode   = 0.5x10^6 ohm
+ 3. Cut in Voltage of PN diode         = 0.55v
